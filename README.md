@@ -1,5 +1,5 @@
 # Paper Reading
-This repository contains my reading notes for some impressive papers in recent years. Some of them are listed below by topics.
+This repository contains my reading notes for some impressive papers in recent years. Some are listed below by topic.
 
 ### Computer Vision
 | Paper | Year | Citation |
