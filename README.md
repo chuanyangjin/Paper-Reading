@@ -10,6 +10,8 @@ This repository contains my reading notes for impressive papers in recent years.
 | **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** | 2021 | ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc8b25fab5608c3e033d34b4483ec47e68ba109b7%3Ffields%3DcitationCount) |
 | MAE: **Masked Autoencoders Are Scalable Vision Learners** | 2021 | ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6351ebb4a3287f5f3e1273464b3b91e5df5a16d7%3Ffields%3DcitationCount) |
 
+Other contrastive learning: InstDisc (2018), CPC (2018), InvaSpread (2019), CMC (2019), MoCo v2 (2020), SimCLR (2020), SimCLR v2 (2020), SwAV (2020), BYOL (2020), SimSiam (2020), MoCo v3 (2021), DINO (2021)
+
 ### Diffusion Models
 | Paper | Year | Citation |
 | -- | -- | --: |
